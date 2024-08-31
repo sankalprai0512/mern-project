@@ -1,8 +1,8 @@
 # mern-project
 for run this projects command -
 
-cd backend -
+cd backend 
 
-cd frontend-
+cd frontend
 
 npm start
